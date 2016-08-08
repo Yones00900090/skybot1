@@ -243,6 +243,7 @@ function create_config( )
     "language",
     "whitelist"
     },
+"Gps"
     vip_users = {111111111}, --vip users
     sudo_users = {253566671},--Sudo users
     support_gp = {111111111},--Support id
